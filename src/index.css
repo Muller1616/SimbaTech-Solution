@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@config "../tailwind.config.js";
+
+@layer base {
+  body {
+    @apply bg-background text-gray-100 font-sans antialiased overflow-x-hidden;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-surface/60 backdrop-blur-md border border-surfaceBorder;
+  }
+  .glass-card {
+    @apply bg-surface/40 backdrop-blur-sm border border-surfaceBorder/50 rounded-2xl;
+  }
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary;
+  }
+}
