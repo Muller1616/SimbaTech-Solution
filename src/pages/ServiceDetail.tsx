@@ -5,7 +5,7 @@ import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
 import { 
   ArrowLeft, Globe, Smartphone, Database, Cloud, Cpu, Network, 
-  CheckCircle2, Zap, ShieldCheck, BarChart3, Settings, Users 
+  Zap, ShieldCheck, BarChart3, Settings, Users 
 } from 'lucide-react';
 
 // Extended database for individual service detail pages

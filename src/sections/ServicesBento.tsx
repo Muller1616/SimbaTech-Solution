@@ -1,5 +1,5 @@
-import React from 'react';
-import { motion } from 'framer-motion';
+
+
 import { Card } from '../components/ui/Card';
 import { Globe, Smartphone, Cloud, Database, Cpu, Network } from 'lucide-react';
 

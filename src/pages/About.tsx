@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { Card } from '../components/ui/Card';
 import { Target, Lightbulb, Shield, Users, ArrowRight, CheckCircle2 } from 'lucide-react';

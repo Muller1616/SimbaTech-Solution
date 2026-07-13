@@ -1,5 +1,5 @@
-import React from 'react';
-import { motion } from 'framer-motion';
+
+
 
 const steps = [
   { num: '01', title: 'Discovery & Strategy', desc: 'Understanding your goals, defining requirements, and plotting the digital roadmap.' },

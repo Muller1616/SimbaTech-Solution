@@ -1,7 +1,7 @@
-import React from 'react';
+
 import { Card } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
-import { MapPin, Phone, Mail, Clock, ArrowLeft, Send } from 'lucide-react';
+import { MapPin, Phone, ArrowLeft, Send } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 const Contact = () => {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { Button } from '../components/ui/Button';
 import { Globe, Smartphone, Database, Cloud, Cpu, Network, ArrowRight, CheckCircle2 } from 'lucide-react';
